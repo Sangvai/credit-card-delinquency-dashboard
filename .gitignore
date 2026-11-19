@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.sqlite*
+data/credit_card_balances.csv
+.streamlit/secrets.toml
